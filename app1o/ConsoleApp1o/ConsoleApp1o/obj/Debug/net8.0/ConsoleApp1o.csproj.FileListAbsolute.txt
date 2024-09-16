@@ -1,0 +1,14 @@
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\bin\Debug\net8.0\ConsoleApp1o.exe
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\bin\Debug\net8.0\ConsoleApp1o.deps.json
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\bin\Debug\net8.0\ConsoleApp1o.runtimeconfig.json
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\bin\Debug\net8.0\ConsoleApp1o.dll
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\bin\Debug\net8.0\ConsoleApp1o.pdb
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.AssemblyInfoInputs.cache
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.AssemblyInfo.cs
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.csproj.CoreCompileInputs.cache
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.dll
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\refint\ConsoleApp1o.dll
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.pdb
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ConsoleApp1o.genruntimeconfig.cache
+D:\Github Local Repos\Project2D\app1o\ConsoleApp1o\ConsoleApp1o\obj\Debug\net8.0\ref\ConsoleApp1o.dll
